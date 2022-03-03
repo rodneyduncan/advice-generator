@@ -54,9 +54,11 @@ body{
 @media (min-width: 600px ){
 .adviceId{
 	font-size: 1.215rem;
+	font-weight: normal;
 }
 	.main{
-		max-width: 800px;
+		max-width: 500px;
+		padding: 1em;
 		width: 70%
 	}
 }
